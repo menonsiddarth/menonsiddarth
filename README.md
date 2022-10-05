@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @menonsiddarth
-- 👀 I’m interested in web dev espcially in front end technologies
+- 👋 Hi, I’m Siddarth!
+- 👀 I’m a passionate web dev, more inclined towards front end technologies, UI and UX
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on my email reachsiddarthmenon@gmail.com
+- 📫 You cab reach me on my email reachsiddarthmenon@gmail.com
 - Cheers and happy coding!
 
 <!---
